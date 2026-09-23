@@ -1,11 +1,49 @@
+# 로컬 편집기 / OS
 .obsidian/
 .trash/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# 비밀정보
 .env
 .env.*
 *.pem
 *.key
 id_rsa
+id_rsa.*
 id_ed25519
+id_ed25519.*
+
+# Terraform 로컬 상태
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.tfvars.example
+crash.log
+crash.*.log
+
+# 임시 파일
+*.tmp
+*.swp
+*~
+
+# 로컬 개발 / 생성 파일
+.second-brain/
+node_modules/
+debug.log
+
+# AI 작업용 로컬 설정
+.agents/
+AGENTS.md
+
+# 공개하지 않을 로컬 작업자료
+_local/
+
+# GitHub 공개 제외
+01-Linux/
+02-Network/
+03-AWS/
+08-Tools/
+09-Templates/
