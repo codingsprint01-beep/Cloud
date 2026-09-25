@@ -1,0 +1,10 @@
+# Portfolio Content
+
+`cloud-knowledge`에서 `portfolio: true`로 선별된 공개 기록입니다.
+
+- [SSH와 Nginx 서버 운영](04-Labs/01-리눅스/04%20SSH와%20Nginx%20서버%20운영.md)
+- [RAID 구성 및 검증](04-Labs/01-리눅스/05%20RAID%20구성%20및%20검증.md)
+- [LVM 구성 및 확장](04-Labs/01-리눅스/06%20LVM%20구성%20및%20확장.md)
+- [BIND9 재귀·캐싱 DNS 및 Primary 권한 DNS 구축](04-Labs/01-리눅스/08%20BIND9%20재귀·캐싱%20DNS%20및%20Primary%20권한%20DNS%20구축.md)
+- [SSH 접속 장애 분석 및 UFW 방화벽 설정 수정](05-Troubleshooting/01-리눅스/01%20SSH%20접속%20장애%20분석%20및%20UFW%20방화벽%20설정%20수정.md)
+- [RAID 장애 분석 및 복구](05-Troubleshooting/01-리눅스/02%20RAID%20장애%20분석%20및%20복구.md)
