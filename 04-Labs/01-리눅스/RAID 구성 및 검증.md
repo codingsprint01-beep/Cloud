@@ -86,4 +86,4 @@ Failed Devices : 0
 
 ## 관련 기록
 
-- [RAID 장애 분석 및 복구](<../../05-Troubleshooting/01-리눅스/02 RAID 장애 분석 및 복구.md>)
+- [RAID 장애 분석 및 복구](<../../05-Troubleshooting/01-리눅스/RAID 장애 분석 및 복구.md>)

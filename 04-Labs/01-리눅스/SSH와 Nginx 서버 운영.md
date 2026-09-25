@@ -61,7 +61,7 @@ journalctl -u nginx -n 50                 # Nginx journal 확인
 SSH 22/TCP 허용 규칙이 있어도 접속 실패 발생.
 IPv4/IPv6 규칙과 기존 `DENY` 규칙 순서를 확인하고 충돌 규칙 제거 후 정상화.
 
-- [상세 기록: SSH 접속 장애 분석 및 UFW 방화벽 설정 수정](<../../05-Troubleshooting/01-리눅스/01 SSH 접속 장애 분석 및 UFW 방화벽 설정 수정.md>)
+- [상세 기록: SSH 접속 장애 분석 및 UFW 방화벽 설정 수정](<../../05-Troubleshooting/01-리눅스/SSH 접속 장애 분석 및 UFW 방화벽 설정 수정.md>)
 
 ## 7. 배운점
 

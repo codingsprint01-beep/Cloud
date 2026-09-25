@@ -51,4 +51,4 @@ Windows 로컬 PC에서 동일 IPv4 주소로 SSH 재접속 후 정상 동작 �
 
 ## 관련 기록
 
-- [SSH와 Nginx 서버 운영](<../../04-Labs/01-리눅스/04 SSH와 Nginx 서버 운영.md>)
+- [SSH와 Nginx 서버 운영](<../../04-Labs/01-리눅스/SSH와 Nginx 서버 운영.md>)
